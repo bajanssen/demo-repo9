@@ -1,4 +1,4 @@
-gi# demo-repo9
+
 Git and GitHub intro
 
 ## Header 2
