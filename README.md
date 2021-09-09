@@ -1,2 +1,2 @@
 # demo-repo9
-Git and GitHub
+Git and GitHub intro
